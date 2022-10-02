@@ -1,1 +1,4 @@
 hi guys
+this is a test file
+now
+>>>>>>> branch2
